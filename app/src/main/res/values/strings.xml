@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginMods</string>
+    <string name="client_id">236308776561-8oea6bc6ukph5i15su16vlf2s6v038r0.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
